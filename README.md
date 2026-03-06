@@ -9,13 +9,13 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/pavel-halík-bbb096326" target="_blank">
+  <a href="https://www.linkedin.com/in/pavel-halík-bbb096326" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="forkxel" target="_blank">
+  <a href="https://discord.com/users/573428739828875264">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="pavel.halik06@gmail.com" target="_blank">
+  <a href="mailto:pavel.halik06@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -77,8 +77,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Forkxel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Forkxel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Forkxel&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forkxel&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ###
