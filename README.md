@@ -73,7 +73,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Forkxel&theme=dracula" height="150"/>
+  <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Forkxel&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
   <a href="https://github.com/Forkxel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Forkxel&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
